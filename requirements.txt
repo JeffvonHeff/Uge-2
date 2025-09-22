@@ -1,0 +1,5 @@
+Matplotlib
+numpy
+pandas
+seaborn
+WordCloud
